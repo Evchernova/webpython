@@ -1,0 +1,17 @@
+2023-12-17 10:38:44 INFO ====== WebDriver manager ======
+2023-12-17 10:38:45 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 10:38:46 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 10:38:46 INFO Driver [/opt/homebrew/Caskroom/chromedriver/120.0.6099.71/chromedriver-mac-arm64/chromedriver] found in cache
+2023-12-17 10:38:47 INFO Test1 starting
+2023-12-17 10:38:50 INFO Test1 finished
+2023-12-17 10:38:50 INFO Test2 starting
+2023-12-17 10:38:52 INFO Test2 finished
+2023-12-17 10:38:52 INFO Test3 starting
+2023-12-17 10:38:56 INFO Test3 finished
+2023-12-17 10:38:56 INFO Test4 starting
+2023-12-17 10:38:58 INFO Test4 finished
+2023-12-17 10:38:58 INFO Test5 starting
+2023-12-17 10:39:02 INFO We find text Form successfully submitted in alert
+2023-12-17 10:39:02 INFO Test5 finished
+2023-12-17 10:39:03 INFO Test6 API starting
+2023-12-17 10:39:03 INFO Test6 finished
